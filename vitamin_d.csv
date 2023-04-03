@@ -1,4 +1,4 @@
-Person_ID;Baseline;month_1;month_3;month_6;group
+person_id;baseline;month_1;month_3;month_6;group
 1221123;6;28;41;52;injection
 1221124;3;35;42;60;drops
 1221125;11;30;12;63;injection
