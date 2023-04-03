@@ -93,9 +93,9 @@ person_id;baseline;month_1;month_3;month_6;group
 1221214;13;20;25;66;drops
 1221215;18;11;NA;54;injection
 1221216;12;36;31;52;drops
-1221217;16;28;36;56;injection
-1221218;5;18;37;27;drops
-1221219;16;35;17;54;injection
+1221217;6;28;36;56;injection
+1221218;15;18;37;27;drops
+1221219;6;35;17;54;injection
 1221220;2;39;12;38;drops
 1221221;19;30;34;49;injection
 1221222;5;10;32;51;drops
@@ -125,7 +125,7 @@ person_id;baseline;month_1;month_3;month_6;group
 1221246;9;37;27;21;drops
 1221247;19;9;14;33;injection
 1221248;16;17;12;24;drops
-1221249;8;17;19;47;injection
+1221249;18;17;19;47;injection
 1221250;14;37;45;62;drops
 1221251;12;11;30;27;injection
 1221252;17;27;37;68;drops
