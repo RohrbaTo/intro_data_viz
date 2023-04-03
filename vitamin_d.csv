@@ -176,7 +176,7 @@ person_id;baseline;month_1;month_3;month_6;group
 1221297;2;36;44;35;injection
 1221298;11;19;42;21;drops
 1221299;16;33;13;23;injection
-1221300;4;20;15;63;drops
+1221300;14;20;15;63;drops
 1221301;18;9;27;64;injection
 1221302;17;26;29;50;drops
 1221303;1;NA;NA;42;injection
@@ -190,11 +190,11 @@ person_id;baseline;month_1;month_3;month_6;group
 1221311;5;37;17;47;injection
 1221312;15;38;15;38;drops
 1221313;15;12;41;41;injection
-1221314;5;39;21;62;drops
+1221314;15;39;21;62;drops
 1221315;15;38;45;47;injection
 1221316;10;11;13;28;drops
 1221317;7;36;34;36;injection
 1221318;14;16;32;50;drops
 1221319;16;36;24;47;injection
-1221320;5;11;15;29;drops
-1221321;20;33;42;49;injection
+1221320;15;11;15;29;drops
+1221321;2;33;42;49;injection
